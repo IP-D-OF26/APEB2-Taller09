@@ -94,10 +94,13 @@ Una institución aplica una encuesta de satisfacción a N personas sobre M servi
 ---
 
 Un cine registra la ocupación de asientos en una sala:
-• Filas → filas del cine
-• Columnas → asientos por fila
+
+- Filas → filas del cine
+- Columnas → asientos por fila
 (1 = ocupado, 0 = libre)
+
 Se requiere un programa para leer la matriz de ocupación, y que también muestre el mapa de asientos. Además debe contar cuántos asientos están ocupados. Y finalmente, debe indicar cuántos asisentos libres existen en cada fila.
+
 ---
 ### Ejercicio 9
 ---
